@@ -1,0 +1,7 @@
+[project]
+name = "dbt"
+version = "0.1.0"
+description = "This Project aims to implemente a dbt model in snowflake using dbt core"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
